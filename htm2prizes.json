@@ -1,0 +1,119 @@
+{
+  "name":"Hack The Mountains",
+  "version":"2.0",
+  "every_participant":[
+    "Free Course Access at Interview Cake.",
+    "90 Days Balsamiq Platform Access",
+    "FREE  30-day trial version of any JetBrains IDE .",
+    "3 Months Free Hacker Plan at repl.it",
+    "Voiceflow Professional Licence for 1 month at $49/month.",
+    "1 Month Free Echo AR Business Tier Access.",
+    "Certificate of participation.",
+    "Swags & Goodies from MLH.",
+    "30 Days Wolfram Platform Access",
+    "Huge Discount Coupons at all courses at Coding ninjas.",
+    "Free credits to ShashiDo platform ",
+    ".XYZ domain for 1 year to First 300 Students "
+    ],
+  "sponsor_prize":[
+    {
+      "sponsor_name":"Polygon Prize",
+      "description":[
+        "Cash prize of Rs.10,000 for the best hack built on top of Ethereum",
+        "Eligibility to apply for internship/full-time roles and seed funding of up to 5,000 USD for winners",
+        "cash Prize of Rs.15000 on  integration of  Polygon in their Hack."
+        ],
+      "notion_link":"https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-c63140a97a52442c935070a75f035911"
+    },
+    {
+      "sponsor_name":"Portis Prize",
+      "description":[
+        "Cash Prize of ₹15000 for Best Dapp Build On Portis"
+      ],
+      "notion_link":"https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-c7fc54ec5e1f43bb9fb5c41dd5c15b21"
+    },
+    {
+      "sponsor_name":"Tezos Prize",
+      "description":[
+        "Cash Prize of 20000 INR for best Dapp built on Tezos"
+      ],
+      "notion_link":"https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-1e74098f2063433ba126e464538e6fc2"
+    },
+    {
+      "sponsor_name":"Sawo Labs Prize",
+      "description":[
+        "Prize of worth $100  to Winning Team",
+        "1 month inaugurate  Tier access.",
+        "Featured in Sawo Labs Blogs & Articles","Funds for 100% Playstore/App Store Subscription Fees","Funds for Web - Hosting Fees"
+      ],
+      "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
+    },
+    {
+      "sponsor_name":"EchoAR Prize",
+      "description":[
+        "Amazon Voucher worth $50 To Winners.",
+        "3 month free Business TIER Access",
+        "Featured in blog and letter"
+      ],
+      "notion_link":null
+    },
+     {
+      "sponsor_name":"EchoAR Prize",
+      "description":[
+        "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
+        "The winner will be selected through online poll voting on SashiDo socials.",
+        "Swags and portal access extended",
+        "Internship Opportunities",
+        "Registration for a 45-day Sashi-Do free trial and an opportunity to create projects with ML & SashiDo."
+      ],
+      "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
+    }
+    ],
+  "htm_prize":[
+    {
+      "pos":"1st Prize",
+      "description":["Certificate of Excellence ",
+"Swag and Goodies Kit ",
+"Clerky Lifetime Plan $799.",
+"Wolfram Award and Alpha pro subscription worth $375",
+"Internship Opportunity",
+"1 year subscription licenses of Axure RP Team Edition ",
+"3-month coupons for the Todoist Pro plan",
+"Gift vouchers from HoverRobotix worth Rs 10000/-",
+"100 Coupons of worth is 11,990 INR by Apacenova",
+"4 coupons worth $25 in AoPS products"
+]
+    },
+    {
+      "pos":"2nd Prize",
+      "description":["Certificate of Appreciation", 
+"Swag Kit and Goodies Bag",
+"Wolfram Alpha Award and Platform Access worth $375",
+"1 year subscription licenses of Axure RP Team Edition",
+"3-month coupons for the Todoist Pro plan",
+"Gift vouchers from HoverRobotix worth Rs 10000/-",
+" 100 Coupons of worth is 11,990 INR by Spacenova"
+]
+    },
+    {
+      "pos":"3rd Prize",
+      "description":[
+        "Certificate of Appreciation",
+        "Swag and Goodies Kit.",
+        "Wolfram Alpha Award and Platform Access worth $375",
+"3-month coupons for the Todoist Pro plan",
+"Gift vouchers from HoverRobotix worth Rs 10000/-",
+ "100 Coupons of worth is 11,990 INR by Spacenova"
+]
+    },
+    {
+      "pos":"Top 10 Teams",
+      "description":[
+        "3-month coupons for the Todoist Pro plan (one per team)",
+        "Gift vouchers from HoverRobotix worth Rs 10000/- (for every member of team)",
+        "Coupons of worth is 11,990 INR (for every member of team)"
+]
+    }
+    
+    ]
+  }

@@ -17,6 +17,17 @@
     ],
   "sponsor_prize":[
     {
+      "sponsor_name":"SashiDo Prize",
+      "description":[
+        "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
+        "The winner will be selected through online poll voting on SashiDo socials.",
+        "Swags and portal access extended",
+        "Internship Opportunities",
+        "Registration for a 45-day Sashi-Do free trial and an opportunity to create projects with ML & SashiDo."
+      ],
+      "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
+    },
+    {
       "sponsor_name":"Polygon Prize",
       "description":[
         "Cash prize of Rs.10,000 for the best hack built on top of Ethereum",
@@ -24,6 +35,33 @@
         "cash Prize of Rs.15000 on  integration of  Polygon in their Hack."
         ],
       "notion_link":"https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-c63140a97a52442c935070a75f035911"
+    },
+    {
+      "sponsor_name":"Sawo Labs Prize",
+      "description":[
+        "Prize of worth $100  to Winning Team",
+        "1 month inaugurate  Tier access.",
+        "Featured in Sawo Labs Blogs & Articles","Funds for 100% Playstore/App Store Subscription Fees","Funds for Web - Hosting Fees"
+      ],
+      "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
+    },
+    {
+      "sponsor_name":"Agora Prize",
+      "description":[
+        "5k worth swag pack to Winning team",
+        "Qualified projects team will also recieve t-shirts and stickers",
+        "You have to implement Agora SDK in your project to be eligible"
+      ],
+      "notion_link":"https://www.agora.io/en/"
+    },
+    {
+      "sponsor_name":"EchoAR Prize",
+      "description":[
+        "Amazon Voucher worth $50 To Winners.",
+        "3 month free Business TIER Access",
+        "Featured in blog and letter"
+      ],
+      "notion_link":"https://www.echoar.xyz/"
     },
     {
       "sponsor_name":"Portis Prize",
@@ -38,44 +76,6 @@
         "Cash Prize of 20000 INR for best Dapp built on Tezos"
       ],
       "notion_link":"https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-1e74098f2063433ba126e464538e6fc2"
-    },
-    {
-      "sponsor_name":"Agora Prize",
-      "description":[
-        "5k worth swag pack to Winning team",
-        "Qualified projects team will also recieve t-shirts and stickers",
-        "You have to implement Agora SDK in your project to be eligible"
-      ],
-      "notion_link":"https://www.agora.io/en/"
-    },
-    {
-      "sponsor_name":"Sawo Labs Prize",
-      "description":[
-        "Prize of worth $100  to Winning Team",
-        "1 month inaugurate  Tier access.",
-        "Featured in Sawo Labs Blogs & Articles","Funds for 100% Playstore/App Store Subscription Fees","Funds for Web - Hosting Fees"
-      ],
-      "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
-    },
-    {
-      "sponsor_name":"EchoAR Prize",
-      "description":[
-        "Amazon Voucher worth $50 To Winners.",
-        "3 month free Business TIER Access",
-        "Featured in blog and letter"
-      ],
-      "notion_link":"https://www.echoar.xyz/"
-    },
-     {
-      "sponsor_name":"SashiDo Prize",
-      "description":[
-        "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
-        "The winner will be selected through online poll voting on SashiDo socials.",
-        "Swags and portal access extended",
-        "Internship Opportunities",
-        "Registration for a 45-day Sashi-Do free trial and an opportunity to create projects with ML & SashiDo."
-      ],
-      "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
     }
     ],
   "htm_prize":[

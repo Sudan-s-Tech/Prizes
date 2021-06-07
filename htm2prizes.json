@@ -17,7 +17,7 @@
     ],
   "sponsor_prize":[
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/shashiDo.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/shashiDo.png",
       "sponsor_name":"SashiDo Prize",
       "description":[
         "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
@@ -29,7 +29,7 @@
       "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/Polygon.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/Polygon.png",
       "sponsor_name":"Polygon Prize",
       "description":[
         "Cash prize of Rs.10,000 for the best hack built on top of Ethereum",
@@ -39,7 +39,7 @@
       "notion_link":"https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-c63140a97a52442c935070a75f035911"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/sawo.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sawo.png",
       "sponsor_name":"Sawo Labs Prize",
       "description":[
         "Prize of worth $100  to Winning Team",
@@ -49,7 +49,7 @@
       "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/agora.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/agora.png",
       "sponsor_name":"Agora Prize",
       "description":[
         "5k worth swag pack to Winning team",
@@ -59,7 +59,7 @@
       "notion_link":"https://www.agora.io/en/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/echoar.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/echoar.webp",
       "sponsor_name":"EchoAR Prize",
       "description":[
         "Amazon Voucher worth $50 To Winners.",
@@ -69,7 +69,7 @@
       "notion_link":"https://www.echoar.xyz/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/Portis.svg",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/Portis.svg",
       "sponsor_name":"Portis Prize",
       "description":[
         "Cash Prize of ₹15000 for Best Dapp Build On Portis"
@@ -77,7 +77,7 @@
       "notion_link":"https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-c7fc54ec5e1f43bb9fb5c41dd5c15b21"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/Logos/tezos.png",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/tezos.png",
       "sponsor_name":"Tezos Prize",
       "description":[
         "Cash Prize of 20000 INR for best Dapp built on Tezos"

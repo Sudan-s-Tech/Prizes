@@ -13,7 +13,11 @@
     "30 Days Wolfram Platform Access",
     "Huge Discount Coupons at all courses at Coding ninjas.",
     "Free credits to ShashiDo platform ",
-    ".XYZ domain for 1 year to First 300 Students "
+    ".XYZ domain for 1 year to First 300 Students ",
+    "40% off Draftbit Pro license for 1 year (USD$180)",
+    "60 days FREE trial credits of Digital Ocean worth $100",
+    "3 month Starter Plan of Qoom ( $20 Per Person )",
+    "3000 free minutes of Symbl.ai platform"
     ],
   "sponsor_prize":[
     {
@@ -83,6 +87,14 @@
         "Cash Prize of 20000 INR for best Dapp built on Tezos"
       ],
       "notion_link":"https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-1e74098f2063433ba126e464538e6fc2"
+    },
+    {
+      "image":NULL,
+      "sponsor_name":"Celo Prize",
+      "description":[
+        "Cash Prize of 20000 INR for best Dapp built on Celo"
+      ],
+      "notion_link":"https://www.notion.so/devfolio/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0"
     }
     ],
   "htm_prize":[
@@ -97,7 +109,12 @@
 "3-month coupons for the Todoist Pro plan",
 "Gift vouchers from HoverRobotix worth Rs 10000/-",
 "100 Coupons of worth is 11,990 INR by Spacenova",
-"4 coupons worth $25 in AoPS products"
+"4 coupons worth $25 in AoPS products",
+"1 year FREE license of Egghead.",
+"1 year FREE licence of Framer (Per Team)",
+"1 year of Draftbit Pro for FREE (USD$449 value) ",
+"Digital Ocean credits worth  $250 (Per Person)",
+"1 year Free Scrimba Pro Subscription (Per Team)"
 ]
     },
     {
@@ -108,7 +125,12 @@
 "1 year subscription licenses of Axure RP Team Edition",
 "3-month coupons for the Todoist Pro plan",
 "Gift vouchers from HoverRobotix worth Rs 10000/-",
-" 100 Coupons of worth is 11,990 INR by Spacenova"
+" 100 Coupons of worth is 11,990 INR by Spacenova",
+"1 year FREE license of Egghead.",
+"1 year FREE licence of Framer (Per Team)",
+"1 year of Draftbit Pro for FREE (USD$449 value) ",
+"Digital Ocean Credits worth $125 (Per Person)",
+"1 year Free Scrimba Pro Subscription (Per Team)"
 ]
     },
     {
@@ -119,7 +141,11 @@
         "Wolfram Alpha Award and Platform Access worth $375",
 "3-month coupons for the Todoist Pro plan",
 "Gift vouchers from HoverRobotix worth Rs 10000/-",
- "100 Coupons of worth is 11,990 INR by Spacenova"
+ "100 Coupons of worth is 11,990 INR by Spacenova",
+"1 year FREE license of Egghead.",
+"1 year of Draftbit Pro for FREE (USD$449 value) ",
+"Digital Ocean Credits worth $100 (Per Person)",
+"1 year Free Scrimba Pro Subscription (Per Team)"
 ]
     },
     {
@@ -127,7 +153,9 @@
       "description":[
         "3-month coupons for the Todoist Pro plan (one per team)",
         "Gift vouchers from HoverRobotix worth Rs 10000/- (for every member of team)",
-        "Coupons of worth is 11,990 INR (for every member of team)"
+        "Coupons of worth is 11,990 INR (for every member of team)",
+        "$20  worth credits  for Linode Platform.",
+        "Premium Swag kit for Team"
 ]
     }
     

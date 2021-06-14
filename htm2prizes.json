@@ -40,7 +40,7 @@
         "Eligibility to apply for internship/full-time roles and seed funding of up to 5,000 USD for winners",
         "cash Prize of Rs.15000 on  integration of  Polygon in their Hack."
         ],
-      "notion_link":"https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-c63140a97a52442c935070a75f035911"
+      "notion_link":"https://www.notion.so/devfolio/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c"
     },
     {
       "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sawo.png",
@@ -48,7 +48,9 @@
       "description":[
         "Prize of worth $100  to Winning Team",
         "1 month inaugurate  Tier access.",
-        "Featured in Sawo Labs Blogs & Articles","Funds for 100% Playstore/App Store Subscription Fees","Funds for Web - Hosting Fees"
+        "Featured in Sawo Labs Blogs & Articles",
+        "Funds for 100% Playstore/App Store Subscription Fees",
+        "Funds for Web - Hosting Fees"
       ],
       "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
     },
@@ -78,15 +80,17 @@
       "description":[
         "Cash Prize of ₹15000 for Best Dapp Build On Portis"
       ],
-      "notion_link":"https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-c7fc54ec5e1f43bb9fb5c41dd5c15b21"
+      "notion_link":"https://www.notion.so/devfolio/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90"
     },
     {
       "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/tezos.png",
       "sponsor_name":"Tezos Prize",
       "description":[
-        "Cash Prize of 20000 INR for best Dapp built on Tezos"
+        "Cash Prize of 20000 INR for best Dapp built on Tezos",
+        "25000 INR for building a Flutter Tezos Wallet App",
+        "Exclusive Swags Kit for every valid submission"
       ],
-      "notion_link":"https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-1e74098f2063433ba126e464538e6fc2"
+      "notion_link":"https://www.notion.so/devfolio/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff"
     },
     {
       "image":"NULL",
@@ -95,43 +99,108 @@
         "Cash Prize of 20000 INR for best Dapp built on Celo"
       ],
       "notion_link":"https://www.notion.so/devfolio/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Symbol.ai",
+      "description":[
+        "FOR- Best hack build using Symbl.ai",
+        "Swags for the winning team if they use Symbl.ai - Symbl.ai Tshirt",
+        "100$ USD Amazon Gift card 🎫"
+      ],
+      "notion_link":"http://symbol.ai/"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Best hack built on Elastic",
+      "description":[
+        "🎧",
+        "boAt Rockerz 450 Bluetooth Headphone"
+      ],
+      "notion_link":"https://www.notion.so/Elastic-Challenge-a85a8965ee4b4fc79c56ba21c56a4244"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Best Hack Build using Auth0 API",
+      "description":[
+        "🎧",
+        "Leaf Bass Wireless Bluetooth Headphones"
+      ],
+      "notion_link":"https://auth0.com/"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Digi Key - Best Hardware Hack",
+      "description":[
+        "Grove Beginner Kit",
+        "Using your preferred hardware or hardware emulator, build a hack for your chance to win a Grove Beginner Kit, with an embedded Arduino compatible board. 1 prize for each winning team member with 2 winning teams per event! "
+      ],
+      "notion_link":"https://www.digikey.in/"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Best use of Linode",
+      "description":[
+        "Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.",
+        "Raspberry Pi 4 Starter Kit"
+      ],
+      "notion_link":"https://www.linode.com/"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Best Use of CockroachDB",
+      "description":[
+        "Build your hackathon project on CockroachDB's open source and indestructible SQL database. Utilize CockroachDB in your hack for a chance to win a 3D printing pen for each team member. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt!",
+        "3D printing pen"
+      ],
+      "notion_link":"https://www.cockroachlabs.com/"
+    },
+    {
+      "image":"NULL",
+      "sponsor_name":"Best Domain Name from GoDaddy Registry",
+      "description":[
+        "GoDaddy Registry is giving you everything you need to be the best hacker no matter where you are. Register your domain name with GoDaddy Registry for a chance to win a Hack from Home Kit! Each Kit contains wireless earbuds, blue light glasses, selfie ring light and a pouch for easy transport.",
+        "Hack from Home Kit: Wireless Earbuds, Blue Light Glasses, Selfie Ring Light, Pouch for easy transport."
+      ],
+      "notion_link":"https://in.godaddy.com/"
     }
     ],
   "htm_prize":[
     {
       "pos":"1st Prize",
-      "description":["Certificate of Excellence ",
-"Swag and Goodies Kit ",
-"Clerky Lifetime Plan $799.",
-"Wolfram Award and Alpha pro subscription worth $375",
-"Internship Opportunity",
-"1 year subscription licenses of Axure RP Team Edition ",
-"3-month coupons for the Todoist Pro plan",
-"Gift vouchers from HoverRobotix worth Rs 10000/-",
-"100 Coupons of worth is 11,990 INR by Spacenova",
-"4 coupons worth $25 in AoPS products",
-"1 year FREE license of Egghead.",
-"1 year FREE licence of Framer (Per Team)",
-"1 year of Draftbit Pro for FREE (USD$449 value) ",
-"Digital Ocean credits worth  $250 (Per Person)",
-"1 year Free Scrimba Pro Subscription (Per Team)"
-]
+      "description": ["Certificate of Excellence ",
+        "Premium Swag and Goodies Kit ",
+        "Clerky Lifetime Plan $799.",
+        "Wolfram Award and Alpha pro subscription worth $375",
+        "Internship Opportunity",
+        "1 year subscription licenses of Axure RP Team Edition ",
+        "3-month coupons for the Todoist Pro plan",
+        "Gift vouchers from HoverRobotix worth Rs 10000/-",
+        "100 Coupons of worth is 11,990 INR by Spacenova",
+        "4 coupons worth $25 in AoPS products",
+        "1 year FREE license of Egghead.",
+        "1 year FREE licence of Framer (Per Team)",
+        "1 year of Draftbit Pro for FREE (USD$449 value) ",
+        "Digital Ocean credits worth  $250 (Per Person)",
+        "1 year Free Scrimba Pro Subscription (Per Team)"
+        ]
     },
     {
       "pos":"2nd Prize",
-      "description":["Certificate of Appreciation", 
-"Swag Kit and Goodies Bag",
-"Wolfram Alpha Award and Platform Access worth $375",
-"1 year subscription licenses of Axure RP Team Edition",
-"3-month coupons for the Todoist Pro plan",
-"Gift vouchers from HoverRobotix worth Rs 10000/-",
-" 100 Coupons of worth is 11,990 INR by Spacenova",
-"1 year FREE license of Egghead.",
-"1 year FREE licence of Framer (Per Team)",
-"1 year of Draftbit Pro for FREE (USD$449 value) ",
-"Digital Ocean Credits worth $125 (Per Person)",
-"1 year Free Scrimba Pro Subscription (Per Team)"
-]
+      "description":[
+        "Certificate of Appreciation", 
+        "Swag Kit and Goodies Bag",
+        "Wolfram Alpha Award and Platform Access worth $375",
+        "1 year subscription licenses of Axure RP Team Edition",
+        "3-month coupons for the Todoist Pro plan",
+        "Gift vouchers from HoverRobotix worth Rs 10000/-",
+        " 100 Coupons of worth is 11,990 INR by Spacenova",
+        "1 year FREE license of Egghead.",
+        "1 year FREE licence of Framer (Per Team)",
+        "1 year of Draftbit Pro for FREE (USD$449 value) ",
+        "Digital Ocean Credits worth $125 (Per Person)",
+        "1 year Free Scrimba Pro Subscription (Per Team)"
+        ]
     },
     {
       "pos":"3rd Prize",
@@ -139,14 +208,14 @@
         "Certificate of Appreciation",
         "Swag and Goodies Kit.",
         "Wolfram Alpha Award and Platform Access worth $375",
-"3-month coupons for the Todoist Pro plan",
-"Gift vouchers from HoverRobotix worth Rs 10000/-",
- "100 Coupons of worth is 11,990 INR by Spacenova",
-"1 year FREE license of Egghead.",
-"1 year of Draftbit Pro for FREE (USD$449 value) ",
-"Digital Ocean Credits worth $100 (Per Person)",
-"1 year Free Scrimba Pro Subscription (Per Team)"
-]
+        "3-month coupons for the Todoist Pro plan",
+        "Gift vouchers from HoverRobotix worth Rs 10000/-",
+         "100 Coupons of worth is 11,990 INR by Spacenova",
+        "1 year FREE license of Egghead.",
+        "1 year of Draftbit Pro for FREE (USD$449 value) ",
+        "Digital Ocean Credits worth $100 (Per Person)",
+        "1 year Free Scrimba Pro Subscription (Per Team)"
+        ]
     },
     {
       "pos":"Top 10 Teams",
@@ -154,8 +223,8 @@
         "3-month coupons for the Todoist Pro plan (one per team)",
         "Gift vouchers from HoverRobotix worth Rs 10000/- (for every member of team)",
         "Coupons of worth is 11,990 INR (for every member of team)",
-        "$20  worth credits  for Linode Platform.",
-        "Premium Swag kit for Team"
+        "$20 worth credits for Linode Platform.",
+        "Swag kit for Team"
 ]
     }
     

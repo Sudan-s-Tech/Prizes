@@ -75,14 +75,6 @@
       "notion_link":"https://www.echoar.xyz/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/portis.png",
-      "sponsor_name":"Portis Prize",
-      "description":[
-        "Cash Prize of ₹15000 for Best Dapp Build On Portis"
-      ],
-      "notion_link":"https://www.notion.so/devfolio/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90"
-    },
-    {
       "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/tezos.png",
       "sponsor_name":"Tezos Prize",
       "description":[
@@ -91,6 +83,14 @@
         "Exclusive Swags Kit for every valid submission"
       ],
       "notion_link":"https://www.notion.so/devfolio/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff"
+    },
+    {
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/portis.png",
+      "sponsor_name":"Portis Prize",
+      "description":[
+        "Cash Prize of ₹15000 for Best Dapp Build On Portis"
+      ],
+      "notion_link":"https://www.notion.so/devfolio/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90"
     },
     {
       "image":"NULL",

@@ -100,6 +100,14 @@
     },
     {
       "image":"NULL",
+      "sponsor_name":"Best hack built on Elastic",
+      "description":[
+        "boAt Rockerz 450 Bluetooth Headphone"
+      ],
+      "notion_link":"https://www.notion.so/Elastic-Challenge-a85a8965ee4b4fc79c56ba21c56a4244"
+    },
+    {
+      "image":"NULL",
       "sponsor_name":"Symbol.ai",
       "description":[
         "FOR- Best hack build using Symbl.ai",
@@ -108,14 +116,7 @@
       ],
       "notion_link":"http://symbol.ai/"
     },
-    {
-      "image":"NULL",
-      "sponsor_name":"Best hack built on Elastic",
-      "description":[
-        "boAt Rockerz 450 Bluetooth Headphone"
-      ],
-      "notion_link":"https://www.notion.so/Elastic-Challenge-a85a8965ee4b4fc79c56ba21c56a4244"
-    },
+    
     {
       "image":"NULL",
       "sponsor_name":"Best Hack Build using Auth0 API",

@@ -19,6 +19,52 @@
     "3 month Starter Plan of Qoom ( $20 Per Person )",
     "3000 free minutes of Symbl.ai platform"
     ],
+  
+  "mlh_prize":[
+    {
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sashidoo.png",
+      "sponsor_name":"SashiDo Prize",
+      "description":[
+        "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
+        "The winner will be selected through online poll voting on SashiDo socials.",
+        "Swags and portal access extended"
+      ],
+      "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
+    },
+    {
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/polygon.png",
+      "sponsor_name":"Polygon Prize",
+      "description":[
+        "Cash prize of Rs.10,000 for the best hack built on top of Ethereum.",
+        "Eligibility to apply for internship/full-time roles.",
+        "Cash Prize of Rs.15000 on integration of Polygon."
+        ],
+      "notion_link":"https://www.notion.so/devfolio/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c"
+    },
+    {
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sawo.png",
+      "sponsor_name":"Sawo Labs Prize",
+      "description":[
+        "Prize of worth $100  to Winning Team",
+        "1 month inaugurate  Tier access.",
+        "Featured in Sawo Labs Blogs & Articles",
+        "Funds for 100% Playstore/App Store Subscription Fees",
+        "Funds for Web - Hosting Fees"
+      ],
+      "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
+    },
+    {
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/agora.png",
+      "sponsor_name":"Agora Prize",
+      "description":[
+        "5k worth swag pack to Winning team",
+        "Qualified projects team will also recieve t-shirts and stickers",
+        "Implement Agora SDK in your project to be eligible"
+      ],
+      "notion_link":"https://www.agora.io/en/"
+    }
+   ],
+  
   "sponsor_prize":[
     {
       "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sashidoo.png",

@@ -126,6 +126,23 @@
     },
     {
       "image":"NULL",
+      "sponsor_name":"Lumos Labs Prize",
+      "description":[
+        "Participate and build innovative products using blockchain with this beginner friendly blockchain challenge. Prizes Worth 22K. "
+      ],
+      "notion_link":"https://www.notion.so/Blockchain-for-Beginners-with-NEO-825d42f4aa654af8971d206b64380f07"
+    },
+     {
+      "image":"NULL",
+      "sponsor_name":"Affinidi Prize",
+      "description":[
+        "Build a Proof of Concept leveraging Affinidi’s technology stack and build meaningful applications identifying the Issuer(s), Verifier(s) and Holder(s) within your framework",
+        "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH",
+      ],
+      "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
+    },
+     {
+      "image":"NULL",
       "sponsor_name":"Digi Key - Best Hardware Hack",
       "description":[
         "Grove Beginner Kit",

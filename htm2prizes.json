@@ -58,7 +58,7 @@
       "description":[
         "5k worth swag pack to Winning team",
         "Qualified projects team will also recieve t-shirts and stickers",
-        "You have to implement Agora SDK in your project to be eligible"
+        "Implement Agora SDK in your project to be eligible"
       ],
       "notion_link":"https://www.agora.io/en/"
     },
@@ -77,8 +77,7 @@
       "sponsor_name":"Tezos Prize",
       "description":[
         "Cash Prize of 20000 INR for best Dapp built on Tezos",
-        "25000 INR for building a Flutter Tezos Wallet App",
-        "Exclusive Swags Kit for every valid submission"
+        "25000 INR for building a Flutter Tezos Wallet App "
       ],
       "notion_link":"https://www.notion.so/devfolio/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff"
     },

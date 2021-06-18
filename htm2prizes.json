@@ -22,46 +22,40 @@
   
   "mlh_prize":[
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sashidoo.png",
-      "sponsor_name":"SashiDo Prize",
+      "image":"NULL",
+      "sponsor_name":"Digi Key - Best Hardware Hack",
       "description":[
-        "Top 3 Projects created with SashiDo to be featured on SashiDo's blogspot along with a prize!",
-        "The winner will be selected through online poll voting on SashiDo socials.",
-        "Swags and portal access extended"
+        "Grove Beginner Kit",
+        "Using your preferred hardware or hardware emulator, build a hack for your chance to win a Grove Beginner Kit, with an embedded Arduino compatible board. 1 prize for each winning team member with 2 winning teams per event! "
       ],
-      "notion_link":"https://www.notion.so/Shashido-Challenge-ff08d614c00e4cac958cc42cb6d5619c"
+      "notion_link":"https://www.digikey.in/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/polygon.png",
-      "sponsor_name":"Polygon Prize",
+      "image":"NULL",
+      "sponsor_name":"Best use of Linode",
       "description":[
-        "Cash prize of Rs.10,000 for the best hack built on top of Ethereum.",
-        "Eligibility to apply for internship/full-time roles.",
-        "Cash Prize of Rs.15000 on integration of Polygon."
-        ],
-      "notion_link":"https://www.notion.so/devfolio/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c"
+        "Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.",
+        "Raspberry Pi 4 Starter Kit"
+      ],
+      "notion_link":"https://www.linode.com/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sawo.png",
-      "sponsor_name":"Sawo Labs Prize",
+      "image":"NULL",
+      "sponsor_name":"Best Use of CockroachDB",
       "description":[
-        "Prize of worth $100  to Winning Team",
-        "1 month inaugurate  Tier access.",
-        "Featured in Sawo Labs Blogs & Articles",
-        "Funds for 100% Playstore/App Store Subscription Fees",
-        "Funds for Web - Hosting Fees"
+        "Build your hackathon project on CockroachDB's open source and indestructible SQL database. Utilize CockroachDB in your hack for a chance to win a 3D printing pen for each team member. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt!",
+        "3D printing pen"
       ],
-      "notion_link":"https://www.notion.so/Sawo-Labs-Challenge-67b6dea6abc949808c3b30a7204aa9bc"
+      "notion_link":"https://www.cockroachlabs.com/"
     },
     {
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/agora.png",
-      "sponsor_name":"Agora Prize",
+      "image":"NULL",
+      "sponsor_name":"Best Domain Name from GoDaddy Registry",
       "description":[
-        "5k worth swag pack to Winning team",
-        "Qualified projects team will also recieve t-shirts and stickers",
-        "Implement Agora SDK in your project to be eligible"
+        "GoDaddy Registry is giving you everything you need to be the best hacker no matter where you are. Register your domain name with GoDaddy Registry for a chance to win a Hack from Home Kit! Each Kit contains wireless earbuds, blue light glasses, selfie ring light and a pouch for easy transport.",
+        "Hack from Home Kit: Wireless Earbuds, Blue Light Glasses, Selfie Ring Light, Pouch for easy transport."
       ],
-      "notion_link":"https://www.agora.io/en/"
+      "notion_link":"https://in.godaddy.com/"
     }
    ],
   
@@ -187,42 +181,6 @@
         "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH"
       ],
       "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
-    },
-     {
-      "image":"NULL",
-      "sponsor_name":"Digi Key - Best Hardware Hack",
-      "description":[
-        "Grove Beginner Kit",
-        "Using your preferred hardware or hardware emulator, build a hack for your chance to win a Grove Beginner Kit, with an embedded Arduino compatible board. 1 prize for each winning team member with 2 winning teams per event! "
-      ],
-      "notion_link":"https://www.digikey.in/"
-    },
-    {
-      "image":"NULL",
-      "sponsor_name":"Best use of Linode",
-      "description":[
-        "Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.",
-        "Raspberry Pi 4 Starter Kit"
-      ],
-      "notion_link":"https://www.linode.com/"
-    },
-    {
-      "image":"NULL",
-      "sponsor_name":"Best Use of CockroachDB",
-      "description":[
-        "Build your hackathon project on CockroachDB's open source and indestructible SQL database. Utilize CockroachDB in your hack for a chance to win a 3D printing pen for each team member. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt!",
-        "3D printing pen"
-      ],
-      "notion_link":"https://www.cockroachlabs.com/"
-    },
-    {
-      "image":"NULL",
-      "sponsor_name":"Best Domain Name from GoDaddy Registry",
-      "description":[
-        "GoDaddy Registry is giving you everything you need to be the best hacker no matter where you are. Register your domain name with GoDaddy Registry for a chance to win a Hack from Home Kit! Each Kit contains wireless earbuds, blue light glasses, selfie ring light and a pouch for easy transport.",
-        "Hack from Home Kit: Wireless Earbuds, Blue Light Glasses, Selfie Ring Light, Pouch for easy transport."
-      ],
-      "notion_link":"https://in.godaddy.com/"
     }
     ],
   "htm_prize":[

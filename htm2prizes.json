@@ -155,14 +155,14 @@
       ],
       "notion_link":"https://symbl.ai"
     },
-    
-    {
+     {
       "image":"NULL",
-      "sponsor_name":"Best Hack Build using Auth0 API",
+      "sponsor_name":"Affinidi Prize",
       "description":[
-        "Leaf Bass Wireless Bluetooth Headphones"
+        "Build a Proof of Concept leveraging Affinidi’s technology stack and build meaningful applications identifying the Issuer(s), Verifier(s) and Holder(s) within your framework",
+        "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH"
       ],
-      "notion_link":"https://auth0.com/"
+      "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
     },
     {
       "image":"NULL",
@@ -175,12 +175,11 @@
     },
      {
       "image":"NULL",
-      "sponsor_name":"Affinidi Prize",
+      "sponsor_name":"Best Hack Build using Auth0 API",
       "description":[
-        "Build a Proof of Concept leveraging Affinidi’s technology stack and build meaningful applications identifying the Issuer(s), Verifier(s) and Holder(s) within your framework",
-        "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH"
+        "Leaf Bass Wireless Bluetooth Headphones"
       ],
-      "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
+      "notion_link":"https://auth0.com/"
     }
     ],
   "htm_prize":[

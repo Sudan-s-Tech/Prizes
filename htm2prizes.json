@@ -61,6 +61,15 @@
   
   "sponsor_prize":[
     {
+      "image":"NULL",
+      "sponsor_name":"Affinidi Prize",
+      "description":[
+        "Build a Proof of Concept leveraging Affinidi’s technology stack and build meaningful applications identifying the Issuer(s), Verifier(s) and Holder(s) within your framework",
+        "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH"
+      ],
+      "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
+    },
+    {
       "image":"https://raw.githubusercontent.com/Sudan-s-Tech/Prizes/main/Logos/sashidoo.png",
       "sponsor_name":"SashiDo Prize",
       "description":[
@@ -154,15 +163,6 @@
         "Best projects are also eligible for Symbl's exclusive stickers"
       ],
       "notion_link":"https://symbl.ai"
-    },
-     {
-      "image":"NULL",
-      "sponsor_name":"Affinidi Prize",
-      "description":[
-        "Build a Proof of Concept leveraging Affinidi’s technology stack and build meaningful applications identifying the Issuer(s), Verifier(s) and Holder(s) within your framework",
-        "Top 10 projects will be awarded with a cash prize worth 10000 INR in ETH"
-      ],
-      "notion_link":"https://www.notion.so/Affinidi-Challenge-0102d316ddeb461d9c96d00f91943ed1"
     },
     {
       "image":"NULL",
